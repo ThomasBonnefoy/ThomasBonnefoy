@@ -29,7 +29,7 @@
 
 ### Projets universitaires (SAE — IUT Lyon 1)
 
-Les projets ci-dessous sont réalisés en équipe dans le cadre des SAEs (Situation d'Aprrentisage Evaluée) du BUT Informatique.
+Les projets ci-dessous sont réalisés en équipe dans le cadre des SAEs (Situation d'Apprentisage Evaluée) du BUT Informatique.
 
 | Projet | Description | Technos |
 | --- | --- | --- |
