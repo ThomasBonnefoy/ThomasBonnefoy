@@ -11,11 +11,13 @@
 
 | Domaine | Technologies |
 | --- | --- |
-| **Langages** | `C++` `Kotlin` `JavaScript` `Node.js` `Python` `Bash` `Processing` |
-| **Web** | `HTML / CSS` `JavaScript` `SVG` `QR Code` |
-| **Graphique & embarqué** | `Qt 6` `Arduino / ESP32` `OLED` `ESP-NOW` |
-| **Systèmes & infra** | `Linux` `Docker` `systemd` `Caddy` `Tailscale` `ntfy` `Samba` `rsync` |
-| **Outils** | `Git` `CMake` `PlatformIO` `Gradle` `VS Code` `Wireshark` |
+| **Langages** | `C++` `Kotlin` `JavaScript` `Node.js` `Python` `Bash` `Processing` `Java` `SQL` |
+| **Web** | `HTML / CSS` `JavaScript` `Php` |
+| **Graphique & embarqué** | `Qt 6` `Arduino / ESP32` `ESP-NOW` `Raspberry Pi` |
+| **Systèmes & infra** | `Linux` `Docker` `systemd` `Caddy` `Tailscale` `ntfy` `Samba` `rsync` `Windows` `VMware` |
+| **Réseaux** | `TCP/IP` `IPv4` `DHCP` `RIP` `NAT` `VLAN` `Packet Tracer` `Wireshark` `SSH` |
+| **Outils & IDE** | `Git` `GitHub` `CMake` `VS Code` `IntelliJ IDEA` `CLion` `Qt Creator` `DataGrip` |
+| **Conception & Organisation** | `Figma` `Trello` `Canva` |
 
 ### Projets personnels
 
@@ -31,8 +33,8 @@ Les projets ci-dessous sont réalisés en équipe dans le cadre des SAEs du BUT 
 
 | Projet | Description | Technos |
 | --- | --- | --- |
-| [SAE 2.06 — Cartes étudiantes JPO](https://github.com/ThomasBonnefoy/SAE-2.06-Organisation-d-un-travail-d-equipe) | CLI en Node.js automatisant toute la chaîne de production des supports de communication pour les Journées Portes Ouvertes : upload des sites étudiants, récupération des URLs publiques, génération de QR codes puis de cartes étudiantes SVG. | Node.js, SVG, QR Code |
-| [SAE 2.03 — ESP32 Wireless Pong](https://github.com/ThomasBonnefoy/SAE-2.03-Services-reseaux-et-objets-communicants) | Jeu Pong multijoueur entre deux ESP32 en communication directe sans routeur Wi-Fi (protocole ESP-NOW), architecture Maître/Esclave, écran OLED, buzzer et pilotage au joystick. *Ma contribution : physique du jeu et moteur de collisions, IA du mode solo, ergonomie et navigation des menus.* | C++, ESP32, ESP-NOW, OLED, I²C |
+| [SAE 2.06 — Cartes étudiantes JPO](https://github.com/ThomasBonnefoy/SAE-2.06-Organisation-d-un-travail-d-equipe) | CLI en Node.js automatisant toute la chaîne de production des supports de communication pour les Journées Portes Ouvertes : upload des sites étudiants, récupération des URLs publiques, génération de QR codes puis de cartes étudiantes SVG. *L'équipe a planifié et rédigé la documentation du projet plutôt que de construire physiquement le système sous-jacent.* | Node.js, SVG, QR Code |
+| [SAE 2.03 — ESP32 Wireless Pong](https://github.com/ThomasBonnefoy/SAE-2.03-Services-reseaux-et-objets-communicants) | Jeu Pong multijoueur entre deux ESP32 en communication directe sans routeur Wi-Fi (protocole ESP-NOW), architecture Maître/Esclave, écran OLED (SH1107), buzzer et pilotage au joystick. *Ma contribution : physique du jeu et moteur de collisions, IA du mode solo, ergonomie et navigation des menus.* | C++, ESP32, ESP-NOW, OLED, I²C |
 | [SAE 1.01/1.02 — Geo France](https://github.com/ThomasBonnefoy/SAE-1.01-1.02-Quiz-de-geographie-Processing) | Application interactive de quiz de géographie construite autour de la carte SVG de la France métropolitaine : exploration libre, questions à partir des départements et système de puzzle. | Processing, SVG |
 | [SAE 2.01 — LDVELH](https://github.com/ThomasBonnefoy/SAE-2.01-le-livre-dont-vous-etes-le-heros) *(privé)* | Application de bureau en Qt 6 permettant d'écrire, éditer et lire des livres dont vous êtes le héros : éditeur de texte enrichi, conditions et effets sur le joueur, lecteur avec suivi d'état, export vers un site web autonome. Architecture Modèle-Vue et données JSON. | C++, Qt 6, JSON |
 | [SAE 1.05 — Analyse et conception d'un site web](https://github.com/ThomasBonnefoy/SAE-1.05-Analyse-et-conception-d-un-site-Web) | Projet web complet mené comme une mission pour un client fictif : analyse des besoins, analyse concurrentielle, personas, zoning, wireframes et charte graphique pour un site d'apprentissage du dessin. | HTML, CSS |
