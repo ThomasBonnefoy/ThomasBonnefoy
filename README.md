@@ -12,8 +12,8 @@
 | Domaine | Technologies |
 | --- | --- |
 | **Langages** | `C++` `Kotlin` `JavaScript` `Node.js` `Python` `Bash` `Processing` `Java` `SQL` |
-| **Web** | `HTML / CSS` `JavaScript` `Php` |
-| **Graphique & embarqué** | `Qt 6` `Arduino / ESP32` `ESP-NOW` `Raspberry Pi` |
+| **Web** | `HTML` `CSS` `JavaScript` `Php` |
+| **Graphique & embarqué** | `Qt 6` `Arduino` `ESP32` `ESP-NOW` `Raspberry Pi` |
 | **Systèmes & infra** | `Linux` `Docker` `systemd` `Caddy` `Tailscale` `ntfy` `Samba` `rsync` `Windows` `VMware` |
 | **Réseaux** | `TCP/IP` `IPv4` `DHCP` `RIP` `NAT` `VLAN` `Packet Tracer` `Wireshark` `SSH` |
 | **Outils & IDE** | `Git` `GitHub` `CMake` `VS Code` `IntelliJ IDEA` `CLion` `Qt Creator` `DataGrip` |
@@ -29,7 +29,7 @@
 
 ### Projets universitaires (SAE — IUT Lyon 1)
 
-Les projets ci-dessous sont réalisés en équipe dans le cadre des SAEs du BUT Informatique.
+Les projets ci-dessous sont réalisés en équipe dans le cadre des SAEs (Situation d'Aprrentisage Evaluée) du BUT Informatique.
 
 | Projet | Description | Technos |
 | --- | --- | --- |
