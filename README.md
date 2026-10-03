@@ -36,3 +36,4 @@ Les projets ci-dessous sont réalisés en équipe dans le cadre des SAEs (Situat
 | --- | --- | --- |
 | [XmRip](https://github.com/ThomasBonnefoy/XmRip) | Application Android open-source qui remplace Sony Sound Connect pour contrôler le casque WH-1000XM6, en implémentant le protocole propriétaire MDR v2 par socket RFCOMM Bluetooth — sans aucune dépendance externe. | C++, Kotlin, CMake, Android |
 | [Dragon Ball Super — Site de référence](https://github.com/ThomasBonnefoy/chapitre_dragon_ball_super) | Site statique de référencement des publications Dragon Ball Super, né d'un exercice de HTML au lycée et réutilisé depuis comme terrain d'apprentissage autodidacte. | HTML, CSS, JavaScript |
+| [Portfolio](https://github.com/ThomasBonnefoy/ThomasBonnefoy.github.io) | Site personnel présentant mon parcours, mes compétences et mes projets. | HTML, CSS, JavaScript |
