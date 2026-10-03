@@ -4,7 +4,7 @@
 
 *2nd-year **Computer Science** student (BUT Informatique) at IUT Lyon 1, interested in **web development**, **Linux**, **networking**, **system administration** and **self-hosting**. I enjoy learning through hands-on projects and understanding how the technologies I use actually work.*
 
-* **Portfolio :** [thomasbonnefoy.github.io]((https://thomasbonnefoy.github.io))
+* **Portfolio :** [thomasbonnefoy.github.io](https://thomasbonnefoy.github.io)
 * **Email :** [thomas.bonnefoy14@gmail.com](mailto:thomas.bonnefoy14@gmail.com)
 
 ## Technologies
