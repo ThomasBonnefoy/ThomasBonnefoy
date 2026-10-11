@@ -26,14 +26,16 @@ Les projets ci-dessous sont réalisés en équipe dans le cadre des SAEs (Situat
 | Projet | Description | Technos |
 | --- | --- | --- |
 | [ESP32 Wireless Pong](https://github.com/ThomasBonnefoy/ESP32-Wireless-Pong) | Jeu Pong multijoueur entre deux ESP32 en communication directe sans routeur Wi-Fi (protocole ESP-NOW), architecture Maître/Esclave, écran OLED (SH1107), buzzer et pilotage au joystick. *Ma contribution : physique du jeu et moteur de collisions, IA du mode solo, ergonomie et navigation des menus.* | C++, ESP32, ESP-NOW, OLED, I²C |
-| [Geo France – Quiz de géographie](https://github.com/ThomasBonnefoy/Geo-France-Quiz-de-geographie) | Application interactive de quiz de géographie construite autour de la carte SVG de la France métropolitaine : exploration libre, questions à partir des départements et système de puzzle. | Processing, SVG |
+| [Geo France : Quiz de géographie](https://github.com/ThomasBonnefoy/Geo-France-Quiz-de-geographie) | Application interactive de quiz de géographie construite autour de la carte SVG de la France métropolitaine : exploration libre, questions à partir des départements et système de puzzle. | Processing, SVG |
 | [Site web d’apprentissage du dessin](https://github.com/ThomasBonnefoy/Site-web-d-apprentissage-du-dessin) | Projet web complet mené comme une mission pour un client fictif : analyse des besoins, analyse concurrentielle, personas, zoning, wireframes et charte graphique pour un site d'apprentissage du dessin. | HTML, CSS |
 | [Génération automatisée de cartes étudiantes](https://github.com/ThomasBonnefoy/Generation-automatisee-de-cartes-etudiantes) | CLI en Node.js automatisant toute la chaîne de production des supports de communication pour les Journées Portes Ouvertes : upload des sites étudiants, récupération des URLs publiques, génération de QR codes puis de cartes étudiantes SVG. *L'équipe a planifié et rédigé la documentation du projet plutôt que de construire physiquement le système sous-jacent.* | Node.js, SVG, QR Code |
+| [Le Livre dont vous êtes le héros](https://github.com/ThomasBonnefoy/Le-Livre-dont-vous-tes-le-heros) | Application de création et de lecture de livres interactifs à embranchements. Elle permet de concevoir des histoires, d'organiser les différents passages et de définir les choix proposés au lecteur, qui influencent le déroulement du récit. | C++, Qt 6 |
+
 
 ### Projets personnels
 
 | Projet | Description | Technos |
 | --- | --- | --- |
 | [XmRip](https://github.com/ThomasBonnefoy/XmRip) | Application Android open-source qui remplace Sony Sound Connect pour contrôler le casque WH-1000XM6, en implémentant le protocole propriétaire MDR v2 par socket RFCOMM Bluetooth — sans aucune dépendance externe. | C++, Kotlin, CMake, Android |
-| [Dragon Ball Super — Site de référence](https://github.com/ThomasBonnefoy/chapitre_dragon_ball_super) | Site statique de référencement des publications Dragon Ball Super, né d'un exercice de HTML au lycée et réutilisé depuis comme terrain d'apprentissage autodidacte. | HTML, CSS, JavaScript |
+| [Dragon Ball Super : Site de référence](https://github.com/ThomasBonnefoy/chapitre_dragon_ball_super) | Site statique de référencement des publications Dragon Ball Super, né d'un exercice de HTML au lycée et réutilisé depuis comme terrain d'apprentissage autodidacte. | HTML, CSS, JavaScript |
 | [Portfolio](https://github.com/ThomasBonnefoy/ThomasBonnefoy.github.io) | Site personnel présentant mon parcours, mes compétences et mes projets. | HTML, CSS, JavaScript |
