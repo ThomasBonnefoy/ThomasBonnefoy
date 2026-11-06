@@ -6,6 +6,7 @@
 
 * **Portfolio :** [thomasbonnefoy.github.io](https://thomasbonnefoy.github.io)
 * **Email :** [thomas.bonnefoy14@gmail.com](mailto:thomas.bonnefoy14@gmail.com)
+* [**Linkedin**](https://www.linkedin.com/in/thomas-bonnefoy-8a4925449/)
 
 ## Technologies
 
