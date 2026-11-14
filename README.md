@@ -8,6 +8,13 @@
 * **Email :** [thomas.bonnefoy14@gmail.com](mailto:thomas.bonnefoy14@gmail.com)
 * [**Linkedin**](https://www.linkedin.com/in/thomas-bonnefoy-8a4925449/)
 
+## Projets en images
+
+| | | |
+|:--:|:--:|:--:|
+| [<img src="docs/images/portfolio.png" alt="Portfolio" width="260">](https://github.com/ThomasBonnefoy/ThomasBonnefoy.github.io)<br>**Portfolio** | [<img src="docs/images/livre-heros.png" alt="Le Livre dont vous êtes le héros : page de l'export web" width="260">](https://github.com/ThomasBonnefoy/Le-Livre-dont-vous-tes-le-heros)<br>**Livre dont vous êtes le héros** | [<img src="docs/images/geo-france.png" alt="Carte de France du quiz Geo France" height="170">](https://github.com/ThomasBonnefoy/Geo-France-Quiz-de-geographie)<br>**Geo France** |
+| [<img src="docs/images/site-dessin.png" alt="Site d'apprentissage du dessin" width="260">](https://github.com/ThomasBonnefoy/Site-web-d-apprentissage-du-dessin)<br>**Site d'apprentissage du dessin** | [<img src="docs/images/carte-etudiante.png" alt="Exemple de carte étudiante générée" width="260">](https://github.com/ThomasBonnefoy/Generation-automatisee-de-cartes-etudiantes)<br>**Cartes étudiantes** | |
+
 ## Technologies
 
 | Domaine | Technologies |
